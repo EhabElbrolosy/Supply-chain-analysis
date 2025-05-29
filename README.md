@@ -19,7 +19,10 @@ The main problem is the **inefficient management of supply and inventory** along
 
 ##  Dashboard Demo 
 
-![Image](https://github.com/user-attachments/assets/28ee95f3-d8f6-4aa6-8288-2c4a55e8fa5b)
+![Screenshot 2025-05-30 002230](https://github.com/user-attachments/assets/58a67189-b163-49d6-b866-714f6e242679)
+![Screenshot 2025-05-30 002138](https://github.com/user-attachments/assets/24691a14-8ef8-4ee2-9c57-a5d7b03a9bdc)
+![Screenshot 2025-05-30 001813](https://github.com/user-attachments/assets/0cbf6671-f5a9-462f-a60b-84cdaf5df54c)
+
 
 This dashboard gives a quick insight into the supply chain's performance:
 
